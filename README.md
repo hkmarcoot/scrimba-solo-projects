@@ -2,12 +2,15 @@
 
 ### Hometown Homepage
 
-[Scrimba Link](https://scrimba.com/s0nishp1a7/head)
+[Scrimba Link](https://scrimba.com/s0nishp1a7/head) |
+[Github Folder](./hometown-homepage/)
 
 ### Basketball Scoreboard
 
-[Scrimba Link](https://scrimba.com/s0v81dffvp/head)
+[Scrimba Link](https://scrimba.com/s0v81dffvp/head) |
+[Github Folder](./basketball-scoreboard/)
 
 ### Password Generator
 
-[Scrimba Link](https://scrimba.com/s08esaiff5/head)
+[Scrimba Link](https://scrimba.com/s08esaiff5/head) |
+[Github Folder](./password-generator/)

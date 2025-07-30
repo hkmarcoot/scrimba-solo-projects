@@ -1,0 +1,98 @@
+@font-face {
+    font-family: cursedTimer;
+    src: url(font/CursedTimerUlil-Aznm.ttf)
+    /* Reference: https://www.geeksforgeeks.org/how-to-include-a-font-ttf-using-css/ */
+    /* Reference: https://www.fontspace.com/cursed-timer-ulil-font-f29411 */
+}
+
+body {
+    background-image: url(image/basketball-court-min.jpg);
+    background-size: cover;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    background-color: rgba(27, 36, 74, 0.8);
+    width: 100vw;
+    margin: 0 100px;
+    max-width: 500px;
+    min-width: 400px;
+    padding: 20px 10px;
+    border-radius: 8px;
+}
+
+.second-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.second-container-next {
+   margin: 0 auto;
+}
+
+.inner-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.score-box {
+    width: 160px;
+    height: 120px;
+    background-color: #080001;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.score {
+    font-family: cursedTimer;
+    font-size: 86px;
+    color: #F94F6D;
+    /* background-color: #080001; */
+ 
+    padding: 10px;
+    margin: 0;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.adding {
+    font-family: cursedTimer;
+    color: #9AABD8;
+    display: flex;
+    margin-top: 10px;
+}
+
+h3 {
+    font-size: 40px;
+    color: #EEEEEE;
+    padding: 0;
+    margin: 0;
+}
+
+.btn {
+    border: 1px solid;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.reset {
+    color: #9AABD8;
+}
