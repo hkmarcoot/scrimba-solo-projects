@@ -1,5 +1,7 @@
 # scrimba-solo-projects
 
+## Frontend Path Projects
+
 ### Hometown Homepage
 
 [Scrimba Link](https://scrimba.com/s0nishp1a7/head) |
@@ -14,6 +16,8 @@
 
 [Scrimba Link](https://scrimba.com/s08esaiff5/head) |
 [GitHub Folder](./password-generator/)
+
+## Learn TypeScript Project
 
 ### Typed Tenzies
 
